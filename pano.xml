@@ -69,7 +69,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" background="1" height="20" width="180" backgroundcolor="0xffffff" borderradius="1" enabled="1" textcolor="0x000000" borderalpha="1" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot target="" skinid="ht_node" url="{node4}" tilt="-36.34" description="" pan="-4.75" id="Point01" title=""/>
+      <hotspot target="" skinid="ht_node" url="{node4}" tilt="-42.79" description="" pan="-4.18" id="Point01" title=""/>
       <hotspot target="" skinid="ht_node" url="{node2}" tilt="-23.1" description="" pan="91.16" id="Point02" title=""/>
       <hotspot target="" skinid="ht_node" url="{node6}" tilt="-41.59" description="" pan="-176.85" id="Point03" title=""/>
       <hotspot target="" skinid="ht_node" url="{node5}" tilt="-21.61" description="" pan="-94.8" id="Point04" title=""/>
@@ -104,6 +104,9 @@
       <hotspot target="" skinid="ht_node" url="{node2}" tilt="-14.97" description="" pan="-13.63" id="Point05" title=""/>
       <polyhotspot target="_blank" url="" description="" id="Poly02" title="">
         <polystring>-93.97/0.06|-92.63/-1.43|-93.37/-0.61</polystring>
+      </polyhotspot>
+      <polyhotspot target="" url="{node17}" description="" id="Poly01" title="">
+        <polystring>-9.58/0.97|-49.81/1.29|-50.17/15.24|-9.15/14.19</polystring>
       </polyhotspot>
     </hotspots>
     <media/>
